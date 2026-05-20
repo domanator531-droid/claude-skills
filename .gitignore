@@ -45,3 +45,19 @@ site/
 integrations/
 documentation/implementation/craighewitt-mattpocock-reimplementation-plan.md
 medium/
+
+# === Internal dev artifacts (maintainer-only — hidden from cloners) ===
+# Sprint plans, strategy docs, implementation roadmaps, audits
+documentation/
+
+# Tessl evaluation outputs
+eval-workspace/
+
+# Pre-skill draft specs (Path-B source material)
+megaprompts/
+
+# Pytest suite (maintainer quality gate; not user-consumable)
+tests/
+
+# Autoresearch agent workspace
+.autoresearch/
