@@ -5,7 +5,7 @@ skills:
   - product-team/product-analytics
   - product-team/experiment-designer
 domain: product
-model: sonnet
+model: opus
 tools: [Read, Write, Bash, Grep, Glob]
 ---
 

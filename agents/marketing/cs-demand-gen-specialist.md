@@ -6,7 +6,7 @@ skills:
   - marketing-skill/skills/paid-ads
   - marketing-skill/skills/email-sequence
 domain: marketing
-model: sonnet
+model: opus
 tools: [Read, Write, Bash, Grep]
 ---
 
